@@ -5,7 +5,7 @@ export default function Header() {
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-br from-black via-orange-900/50 to-black"></div>
         <div
-          className="absolute inset-0 bg-cover bg-center bg-fixed opacity-40"
+          className="absolute inset-0 bg-cover bg-center md:bg-fixed opacity-40"
           style={{
             backgroundImage: "url('/images/header-bg.jpeg')",
           }}
