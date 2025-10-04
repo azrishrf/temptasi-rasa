@@ -29,7 +29,6 @@ export default function Header() {
           <h1
             className="font-script text-6xl md:text-8xl lg:text-9xl font-bold mb-6 leading-tight text-white drop-shadow-2xl"
             data-aos="zoom-in"
-            data-aos-delay="100"
           >
             Temptasi Rasa
           </h1>
@@ -45,7 +44,6 @@ export default function Header() {
           <h2
             className="font-serif text-3xl md:text-5xl mb-6 text-amber-300 italic"
             data-aos="fade-up"
-            data-aos-delay="200"
           >
             Nasi Lemak Asli, Rasa Tradisi
           </h2>
@@ -53,7 +51,6 @@ export default function Header() {
           <p
             className="text-xl md:text-2xl mb-12 text-gray-300 max-w-3xl mx-auto leading-relaxed"
             data-aos="fade-up"
-            data-aos-delay="300"
           >
             Sajian warisan Malaysia dengan sentuhan moden, dimasak dengan penuh kasih sayang
             menggunakan resipi turun-temurun
@@ -63,7 +60,6 @@ export default function Header() {
           <div
             className="flex flex-col sm:flex-row gap-4 justify-center items-center"
             data-aos="fade-up"
-            data-aos-delay="400"
           >
             {/* Primary CTA scrolls to Menu section */}
             <a
@@ -89,7 +85,6 @@ export default function Header() {
           <div
             className="mt-16 flex flex-wrap justify-center gap-8 text-white/80"
             data-aos="fade-up"
-            data-aos-delay="500"
           >
             <div className="flex items-center gap-2">
               <svg className="w-5 h-5 text-amber-400" fill="currentColor" viewBox="0 0 20 20">
